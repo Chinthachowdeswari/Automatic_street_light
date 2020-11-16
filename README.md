@@ -10,6 +10,9 @@ Components Required
     IR sensors-3nos
     LDR sensors-1nos
     
+Thingspeak
+
+   ThingSpeak is a cloud based data platform which is used to send and receive the data in real time using HTTP protocol. It is used in Iot applicaiotn to store and monitor the    data from anywhere in the world over internet 
 
 
 
